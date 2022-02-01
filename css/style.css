@@ -742,11 +742,10 @@ html {
 }
 
 .blogs {
-  padding: 130px 90px;
+  padding: 160px 90px;
 }
-
 .blogs__sub {
-  padding-bottom: 112px;
+  margin-bottom: 120px;
 }
 
 .blogs__name {
@@ -869,7 +868,6 @@ html {
 
 
 .footer {
-  padding-top: 160px;
   padding-bottom: 50px;
   padding-left: 90px;
   padding-right: 90px;
