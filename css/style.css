@@ -538,6 +538,20 @@ html {
   height: 90vh;
 }
 
+.video__box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70px;
+  height: 70px;
+  background-color: #cee002;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .video__play {
   position: relative;
   left: 3px;
